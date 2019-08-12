@@ -1,5 +1,12 @@
 # AnalysisWeChat
 
+
+![image](https://github.com/lightm-ster/AnalysisWeChat/blob/master/images/echarts.png)
+![image](https://github.com/lightm-ster/AnalysisWeChat/blob/master/images/%E5%9C%B0%E5%8C%BA%E7%BB%9F%E8%AE%A1.png)
+![image](https://github.com/lightm-ster/AnalysisWeChat/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E5%9C%B0%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96.png)
+![image](https://github.com/lightm-ster/AnalysisWeChat/blob/master/images/%E6%80%A7%E5%88%AB%E7%BB%9F%E8%AE%A1.png
+)
+
 # 依赖
 使用python3，请在python3环境下运行
 
